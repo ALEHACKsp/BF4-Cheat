@@ -12,7 +12,7 @@ Fonctionne sur la dernière version de Battlefield 4, non-banni Punkbuster en ut
 
 ### No Recoil & No Spread
 <p align="center">
- <img width="800" height="600" src="https://github.com/adamhlt/BF4-Cheat/blob/main/Ressource/no%20gravity.gif">
+ <img width="800" height="500" src="https://github.com/adamhlt/BF4-Cheat/blob/main/Ressource/no%20gravity.gif">
  </p>
 ### No Bullet Gravity
 
