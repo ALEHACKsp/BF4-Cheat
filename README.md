@@ -11,7 +11,9 @@ Fonctionnalités :
 Fonctionne sur la dernière version de Battlefield 4, non-banni Punkbuster en utilisant le manual mapping.
 
 ### No Recoil & No Spread
-![](https://github.com/adamhlt/BF4-Cheat/blob/main/Ressource/no%20gravity.gif)
+<p align="center">
+ ![](https://github.com/adamhlt/BF4-Cheat/blob/main/Ressource/no%20gravity.gif)
+ </p>
 ### No Bullet Gravity
 
 # Améliorations
