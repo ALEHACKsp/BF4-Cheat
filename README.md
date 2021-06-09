@@ -27,5 +27,5 @@ Fonctionne sur la dernière version de Battlefield 4, non-banni Punkbuster en ut
 # Améliorations
 
  - Le programme devrait utiliser la boucle du jeu en détournant les fonctions virtuelles de DirectX.
- - Ajouter de nouvelles fonctionnalités .
+ - Ajouter de nouvelles fonctionnalités.
  - Ajouter un screenshot bypass pour PunkBuster.
