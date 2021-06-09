@@ -1,6 +1,6 @@
 # Battlefield 4 Cheat
 
-Le programme n'est pas commenté mais reste facile à comprendre pour une personne ayant de l'expérience dans la manipulation de mémoire ou dans le développement de cheat. Le projet ne sera pas mis à jour.
+Le programme n'est pas commenté, mais reste facile à comprendre pour une personne ayant de l'expérience dans la manipulation de mémoire ou dans le développement de cheat. Le projet ne sera pas mis à jour.
 
 Fonctionnalités :
 
